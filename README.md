@@ -1,5 +1,5 @@
 # oddin-recipes
-this project is part of oddin project's html course.
+A list of different recipes along with its preparation.
 
 
 In these project i have used HTML 100 % .
